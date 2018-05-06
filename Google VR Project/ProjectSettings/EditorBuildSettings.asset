@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Maze_Game.unity
+    guid: fe423e93e05428c41b646fde1fde71e2
+  - enabled: 0
+    path: Assets/Test_Scene.unity
+    guid: dceca74a280dd234194980e6ce1bd1b1
+  - enabled: 0
+    path: Assets/GoogleVR/Demos/Scenes/HelloVR.unity
+    guid: bb36d2905dc634f1c9eecb35beecaca8
