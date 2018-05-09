@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/VR_Final_Scene.unity
+- path: Assets/Dance_Scene.unity
   isLoaded: 1
   isActive: 1

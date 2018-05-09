@@ -409,6 +409,7 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrVRHelpers.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
     <Compile Include="Assets\Item_Selection.cs" />
+    <Compile Include="Assets\Play_Animations.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GoogleVR\Demos\Shaders\HelloVR\HelloVRUnlitGrayscaleToColor.shader" />
@@ -426,6 +427,7 @@
     <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlay.shader" />
     <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlayColor.shader" />
     <None Include="Assets\GoogleVR\Shaders\Video\VideoUnlitShader.shader" />
+    <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
     <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />

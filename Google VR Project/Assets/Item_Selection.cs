@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 
@@ -26,6 +27,11 @@ public class Item_Selection : MonoBehaviour {
             //sib.transform.localPosition = startingPosition;
             sib.SetActive(i == sibIdx);
         }
+    }
+
+    public void moveScene()
+    {
+        SceneManager.LoadScene(1);
     }
 
     public void objectSelected()
